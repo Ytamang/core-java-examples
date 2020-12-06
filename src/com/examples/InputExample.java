@@ -1,9 +1,9 @@
-package com.andrew;
+package com.examples;
 
 import java.util.Scanner;
 
 //class level
-public class Andrew {
+public class InputExample {
 	
 	
 	//main method

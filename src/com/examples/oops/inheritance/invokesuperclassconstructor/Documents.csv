@@ -1,0 +1,4 @@
+When a class is inheriting the properties of superclass, it automatically acquires the default constructor of superclass.
+But to invoke the parameterized constructor from superclass, we need to use the super keyword.
+Example:
+    super(values);
